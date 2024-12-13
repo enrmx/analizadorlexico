@@ -1,2 +1,0 @@
-# analizadorlexico
-lenguajes y automatas
